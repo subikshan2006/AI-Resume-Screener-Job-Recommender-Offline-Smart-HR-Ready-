@@ -1,0 +1,16 @@
+Name: Priya Mehta  
+Education: B.Tech in Computer Science, VIT Chennai  
+Graduation Year: 2025  
+
+Skills:  
+- JavaScript, React.js, Node.js  
+- MongoDB, MySQL  
+- HTML, CSS, Bootstrap  
+- GitHub, Netlify  
+
+Projects:  
+1. Online Shopping Portal  
+2. Task Manager Web App  
+
+Goal:  
+Looking for frontend or full-stack developer roles in fast-growing product-based companies.
