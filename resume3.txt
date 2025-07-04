@@ -1,0 +1,15 @@
+Name: Jordan Lee  
+Education: B.Sc in Statistics, University of Toronto  
+Graduation Year: 2024  
+
+Skills:  
+- Excel, SQL, Power BI  
+- Python (pandas, seaborn, matplotlib)  
+- Exploratory Data Analysis, A/B Testing  
+
+Projects:  
+1. Customer Churn Prediction  
+2. Sales Dashboard using Power BI  
+
+Goal:  
+To work as a Data Analyst or Junior Data Scientist using real-world datasets and statistical methods.
