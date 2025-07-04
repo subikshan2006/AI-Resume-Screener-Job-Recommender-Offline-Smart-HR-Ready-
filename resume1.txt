@@ -1,0 +1,16 @@
+Name: Alex Johnson  
+Education: B.Tech in Artificial Intelligence, University of California  
+Graduation Year: 2026  
+
+Skills:  
+- Python, TensorFlow, PyTorch, Scikit-Learn  
+- LangChain, FAISS, HuggingFace Transformers  
+- Worked on LLaMA2 and Whisper for offline NLP applications  
+- Vector search with semantic embeddings  
+
+Projects:  
+1. AI Voice Assistant using Local LLMs  
+2. Resume Matching System using FAISS and LangChain  
+
+Goal:  
+To work as a Junior Machine Learning Engineer in an AI research or NLP-focused startup.
