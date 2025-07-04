@@ -1,0 +1,21 @@
+Job Title: Junior Machine Learning Engineer
+
+We are seeking a passionate and enthusiastic Junior Machine Learning Engineer to join our core AI team.
+You will collaborate with senior engineers and data scientists to build and deploy intelligent systems 
+across multiple domains including NLP, computer vision, and recommendation systems.
+
+Responsibilities:
+- Implement and optimize machine learning models for real-world tasks
+- Perform data preprocessing, vectorization, and model evaluation
+- Build tools using LLMs (like LLaMA2, Mistral, Falcon) to automate workflows
+- Use vector search engines like FAISS or Milvus to retrieve semantic data
+- Collaborate in Python-based environments using tools like LangChain, HuggingFace, Streamlit
+- Participate in regular code reviews and research paper reading sessions
+
+Requirements:
+- Proficiency in Python and NLP tools
+- Experience working with open-source LLMs (e.g., LLaMA, Mistral, Falcon)
+- Strong understanding of vector databases and semantic search
+- Knowledge of LangChain, Transformers, Sentence Embeddings
+- Familiarity with Linux and offline model deployment
+- Bonus: Experience with Streamlit, Flask, or FastAPI
